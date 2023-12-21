@@ -26,6 +26,8 @@ a{
     font-weight: bold;
     padding: 10px;
 }
+.info1{
+    display:flex;
 .info{
     margin-top: 50px;
     margin-left: 100px;
@@ -42,13 +44,13 @@ h1{
 
 h3{
     padding: 5px;
-    font-size: 25px;
+    font-size: 30px;
     margin-top: 20px;
 }
 
 p{
     padding: 5px;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 button{
